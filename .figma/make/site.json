@@ -1,0 +1,10 @@
+{
+  "description": "Immersive VR game interface enabling players to cast spells via hand gestures with intuitive HUD and customizable settings for a magical battle experience.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
